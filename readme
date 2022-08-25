@@ -1,0 +1,8 @@
+This Repository contains an incomplete inventory system.
+
+The system is nearly complete as all that is necessary would be to add many details, such as different car parts 
+The coded logic is complete, the inventory system moves between different windows based on what you select 
+The code also changes what appears in various selection boxes based on what you input before 
+The windows also show that you can save and delete what inventory you have
+
+The reason I uploaded this version is to avoid liscencing and distribution issues 

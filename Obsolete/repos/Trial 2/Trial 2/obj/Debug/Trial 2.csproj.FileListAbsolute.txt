@@ -1,0 +1,9 @@
+C:\Users\korin\source\repos\Trial 2\Trial 2\bin\Debug\Trial 2.exe.config
+C:\Users\korin\source\repos\Trial 2\Trial 2\bin\Debug\Trial 2.exe
+C:\Users\korin\source\repos\Trial 2\Trial 2\bin\Debug\Trial 2.pdb
+C:\Users\korin\source\repos\Trial 2\Trial 2\obj\Debug\Trial 2.csprojAssemblyReference.cache
+C:\Users\korin\source\repos\Trial 2\Trial 2\obj\Debug\Trial_2.Form1.resources
+C:\Users\korin\source\repos\Trial 2\Trial 2\obj\Debug\Trial_2.Properties.Resources.resources
+C:\Users\korin\source\repos\Trial 2\Trial 2\obj\Debug\Trial 2.csproj.GenerateResource.cache
+C:\Users\korin\source\repos\Trial 2\Trial 2\obj\Debug\Trial 2.exe
+C:\Users\korin\source\repos\Trial 2\Trial 2\obj\Debug\Trial 2.pdb
